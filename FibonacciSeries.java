@@ -47,5 +47,8 @@ public class FibonacciSeries {
                 for (int i = 0; i < n; i++) {
                                         
                 }
-
+            }
+        }
+    }
+}
         
